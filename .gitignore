@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+queue
+    特点:FIFO(first in first out),添加只能在队尾,删除只能删队头节点
+    主要方法:offer()：添加队尾跌点;poll()：删除队头元素;peek()：获取队头元素
+    实现:很很多实现类,常用实现LinkedList(LinkedList实现Deuque,Deque实现Queue)
+    方法分析(以LinkedList为例):
+    1,offer,最终调用的是
