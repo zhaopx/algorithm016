@@ -62,7 +62,7 @@
             3. rightNode=parentNode*2+2
     3. 主要方法:`offer()`：添加节点;`remove()`：删除节点;
     4. 方法图例
-        1.https://img-blog.csdnimg.cn/20190417102145729.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM5NDcwNzQy,size_16,color_FFFFFF,t_70
+        1.![avatar](https://img-blog.csdnimg.cn/20190417102145729.jpg)
        
     5. 方法分析(以LinkedList为例):
         1. `offer`:插入节点比较后可能上浮
